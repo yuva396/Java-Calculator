@@ -36,7 +36,7 @@ AWT for event handling
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/Calculator-Java.git
+git clone https://github.com/yuva396/Calculator-Java.git
 cd Calculator-Java
 ```
 3. Compile the Java file:
